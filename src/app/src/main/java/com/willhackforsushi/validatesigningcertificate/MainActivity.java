@@ -16,6 +16,8 @@ import android.widget.TextView;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
+// Code adapted from:
+// Makan, Keith; Alexander-Bown, Scott (2013-12-23). Android Security Cookbook (p. 179). Packt Publishing. Kindle Edition. 
 
 public class MainActivity extends ActionBarActivity {
 
